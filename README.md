@@ -18,11 +18,11 @@
 ## Clone This Project
 
 ```bash
-> git clone https://github.com/denisputraa/dnsbot
+> git clone https://github.com/lordescreamo/lordescreamo
 ```
 
 ```bash
-> cd dnsbot
+> cd lordescreamo
 > bash install.sh
 ```
 
